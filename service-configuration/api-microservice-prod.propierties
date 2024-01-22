@@ -1,0 +1,4 @@
+api.config=Api Profile Prod
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+spring.jpa.generate-ddl=true
