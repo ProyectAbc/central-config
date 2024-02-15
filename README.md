@@ -1,1 +1,1 @@
-# ProjectX
+# central-config
